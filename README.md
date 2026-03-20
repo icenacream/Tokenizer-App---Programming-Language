@@ -1,4 +1,4 @@
-# Lexemes Tokenizer
+# Java Tokenizer
 
 A desktop application built in pure Java that performs **lexical analysis** — the process of reading a line of code and breaking it down into its smallest meaningful components called **tokens**.
 

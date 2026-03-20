@@ -34,7 +34,7 @@ public class Main extends JFrame {
     private JPanel    resultsPanel;
 
     public Main() {
-        setTitle("Lexemes Tokenizer");
+        setTitle("Java Tokenizer");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(960, 700);
         setMinimumSize(new Dimension(720, 520));
